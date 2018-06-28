@@ -3,6 +3,7 @@ Batch PDF Printer
 
 ## License
 Script for batch printing all PDF in a folder on Windows Platform with Adobe Reader
+
 Copyleft (C) Nicolas Simond - 2018
 
 This script is free software: you can redistribute it and/or modify
@@ -36,4 +37,6 @@ Download the archive and extract the folder when you want to have it.
 
 Put all the PDF in the folder where the two batch scripts reside.
 
-Run impression.bat and let everything run until the end.
+Run print.bat and let everything run until the end.
+
+Adapt the timer in kill.bat if your computer is too slow.
