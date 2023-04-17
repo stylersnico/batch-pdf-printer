@@ -29,8 +29,8 @@ Simple script to batch print every PDF in a folder just with a click without bot
 - No admin rights needed
 
 ## Designed for
-- Windows 7/10
-- Adobe Reader DC
+- Windows 7/10/11
+- Adobe Reader DC / Can fit Adobe Acrobat (with path change to .exe)
 
 ## Installation
 Download the archive and extract the folder when you want to have it.
